@@ -1,7 +1,7 @@
 # Hi, I’m Milonee Parekh 👋  
 
 🎓 Master’s student in **Industrial Engineering & Operations Research (IEOR)** at Lehigh University (May 2026)  
-📍 Bethlehem, PA | 💡 Passionate about **supply chain, operations, and continuous improvement**  
+📍 Bethlehem, PA | 💡 Passionate about **supply chain, operations, data analytics and continuous improvement**  
 📊 I bridge **data analytics and process improvement** to design efficient, resilient systems that cut costs, improve speed, and enhance service quality.  
 
 ---
@@ -27,6 +27,9 @@
 
 ---
 ## 📂 Featured Projects  
+
+- 🔹 **SM Paints – Process Improvement Simulation**  
+  Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, which improved throughput and supported the company’s 98% on-time delivery goal.
 
 - 🔹 **Raw Material Optimization**  
   Designed a linear programming model in Python to minimize raw material costs under supply, demand, and capacity constraints. Demonstrated how optimization can reduce procurement spend and improve sourcing efficiency.  
