@@ -28,16 +28,11 @@
 ---
 ## 📂 Featured Projects  
 
-### OR Scheduling System Redesign  
-**Human-Centered Design | Healthcare Operations | Process Improvement**
+- 🔹 **OR Scheduling System Redesign**  
+  Redesigned a hospital Operating Room scheduling process using a human-centered design approach to reduce inefficiencies, improve transparency, and address fairness concerns. Applied structured methods such as Frame Your Design Challenge, brainstorming, and Theory of Change to develop concepts including a data-informed scheduler, shift-swapping mechanism, and fairness dashboard.
 
-This project focuses on redesigning an Operating Room scheduling process using a **human-centered design approach** to address inefficiencies, fairness concerns, and communication gaps commonly seen in hospital settings. Structured design methods such as **Frame Your Design Challenge, Brainstorming, and Theory of Change** were applied to develop solution concepts including a data-informed scheduling system, a streamlined shift-swapping mechanism, and a transparency-focused fairness dashboard. The project emphasizes user trust, clarity, and operational feasibility, while laying the foundation for future data-driven and automated scheduling solutions.
-
-
-### Emergency Room Performance Monitor 
-**Healthcare Analytics | Power BI | Operational Reporting**
-
-This project presents a **Power BI dashboard** designed to summarize key Emergency Room performance metrics such as patient admissions, referrals, wait times, and demographics. The dashboard provides a consolidated, high-level view of ER operations to support performance monitoring and data-informed decision-making. While the current version focuses on static visual reporting, the project establishes a strong analytical base for future enhancements including interactivity, real-time monitoring, and predictive analytics.
+- 🔹 **Emergency Room Performance Monitor**  
+  Developed a Power BI dashboard to consolidate key Emergency Room performance metrics, including admissions, referrals, wait times, and patient demographics. Enabled high-level operational visibility to support data-informed decision-making, while establishing a foundation for future interactive and real-time analytics enhancements.
 
 - 🔹 **SM Paints – Process Improvement Simulation**  
   Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, which improved throughput and supported the company’s 98% on-time delivery goal.
