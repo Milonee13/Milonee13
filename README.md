@@ -28,7 +28,7 @@
 ---
 ## 📂 Featured Projects  
 
-- 🔹 **SM Paints – Process Improvement Simulation**  
+- 🔹 **[SM Paints – Process Improvement Simulation](https://github.com/Milonee13/SM-Paints---Simulation-Project)**  
   Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, which improved throughput and supported the company’s 98% on-time delivery goal.
 
 - 🔹 **Raw Material Optimization**  
