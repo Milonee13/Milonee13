@@ -26,30 +26,41 @@
   SAP + SQL/Python data integration for logistics dashboards, demand forecasting for 30–50 SKUs, and supplier coordination improving on-time delivery.  
 
 ---
+
 ## 📂 Featured Projects  
 
-- 🔹 **[SM Paints – Process Improvement Simulation](https://github.com/Milonee13/SM-Paints---Simulation-Project)**  
-  Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, which improved throughput and supported the company’s 98% on-time delivery goal.
+### 📦 Supply Chain Optimization & Planning  
 
 - 🔹 **[Raw Material Optimization](https://github.com/Milonee13/Raw-Material-Optimization)**  
-  Designed a linear programming model in Python to minimize raw material costs under supply, demand, and capacity constraints. Demonstrated how optimization can reduce procurement spend and improve sourcing efficiency.  
+  Designed a linear programming model in Python to minimize raw material costs under supply, demand, and capacity constraints. Demonstrated how optimization reduces procurement spend and improves sourcing efficiency under real-world constraints.
 
 - 🔹 **[Vendor Performance Analytics](http://github.com/Milonee13/Vendor-Performance-Analytics)**  
-  Built an analytics framework to evaluate supplier performance using delivery times, cost variability, and reliability metrics. Identified vendor concentration risks and highlighted diversification strategies for improved supply resilience.  
-
-- 🔹 **[Sales Dashboard (Power BI)](https://github.com/Milonee13/Sales-PowerBI-Dashboard)**  
-  Developed an interactive Power BI dashboard to visualize sales by region, product line, and time period. Delivered insights on revenue drivers, margin pressures, and target gaps, enabling faster decision-making.  
-
-- 🔹 **[Hospitalization Cost Prediction](https://github.com/Milonee13/predicting-hospitalization-costs)**  
-  Applied regression and predictive modeling techniques to estimate hospitalization costs based on patient attributes (BMI, chronic conditions, etc.). Achieved strong accuracy and demonstrated applications in healthcare cost transparency and resource allocation.  
+  Built an analytics framework to evaluate supplier delivery reliability, cost variability, and performance risk. Identified vendor concentration risks and proposed diversification strategies to improve supply resilience and service levels.
 
 - 🔹 **[CO₂ Emissions Reporting](https://github.com/Milonee13/CO2-emissions-reporting)**  
-  Created a Python-based pipeline for emissions data cleaning, reporting, and visualization. Highlighted patterns and anomalies in CO₂ emissions to support sustainability analysis and compliance reporting.  
-
-- 🔹 **[OR Scheduling System Redesign](https://github.com/Milonee13/OR-Scheduling-System-Redesign-using-Human-Centered-Approach)**  
-  Redesigned a hospital Operating Room scheduling process using a human-centered design approach to reduce inefficiencies, improve transparency, and address fairness concerns. Applied structured methods such as Frame Your Design Challenge, brainstorming, and Theory of Change to develop concepts including a data-informed scheduler, shift-swapping mechanism, and fairness dashboard.
+  Developed a Python-based pipeline for emissions data cleaning, reporting, and visualization. Highlighted supply chain sustainability patterns and anomalies to support compliance and ESG reporting.
 
 ---
+
+### ⚙️ Process Improvement & Continuous Improvement  
+
+- 🔹 **[SM Paints – Process Improvement Simulation](https://github.com/Milonee13/SM-Paints---Simulation-Project)**  
+  Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, improving throughput and supporting the company’s 98% on-time delivery target.
+
+- 🔹 **[OR Scheduling System Redesign](https://github.com/Milonee13/OR-Scheduling-System-Redesign-using-Human-Centered-Approach)**  
+  Redesigned a hospital Operating Room scheduling process using structured problem framing and human-centered design methods. Proposed a data-informed scheduler, fairness dashboard, and shift-swapping mechanism to reduce inefficiencies and improve transparency.
+
+---
+
+### 📊 Analytics & Business Intelligence  
+
+- 🔹 **[Sales Dashboard (Power BI)](https://github.com/Milonee13/Sales-PowerBI-Dashboard)**  
+  Developed an interactive Power BI dashboard to analyze sales performance by region, product line, and time period. Delivered insights on revenue drivers, margin pressures, and performance gaps to support faster decision-making.
+
+- 🔹 **[Hospitalization Cost Prediction](https://github.com/Milonee13/predicting-hospitalization-costs)**  
+  Applied regression and predictive modeling techniques to estimate cost drivers using structured data analysis. Demonstrated model accuracy and practical application of forecasting and predictive analytics techniques.
+
+
 
 ## 📫 Let’s Connect  
 - [LinkedIn](https://www.linkedin.com/in/milonee-parekh)  
