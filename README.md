@@ -28,12 +28,6 @@
 ---
 ## 📂 Featured Projects  
 
-- 🔹 **OR Scheduling System Redesign**  
-  Redesigned a hospital Operating Room scheduling process using a human-centered design approach to reduce inefficiencies, improve transparency, and address fairness concerns. Applied structured methods such as Frame Your Design Challenge, brainstorming, and Theory of Change to develop concepts including a data-informed scheduler, shift-swapping mechanism, and fairness dashboard.
-
-- 🔹 **Emergency Room Performance Monitor**  
-  Developed a Power BI dashboard to consolidate key Emergency Room performance metrics, including admissions, referrals, wait times, and patient demographics. Enabled high-level operational visibility to support data-informed decision-making, while establishing a foundation for future interactive and real-time analytics enhancements.
-
 - 🔹 **SM Paints – Process Improvement Simulation**  
   Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, which improved throughput and supported the company’s 98% on-time delivery goal.
 
@@ -52,6 +46,8 @@
 - 🔹 **CO₂ Emissions Reporting**  
   Created a Python-based pipeline for emissions data cleaning, reporting, and visualization. Highlighted patterns and anomalies in CO₂ emissions to support sustainability analysis and compliance reporting.  
 
+- 🔹 **OR Scheduling System Redesign**  
+  Redesigned a hospital Operating Room scheduling process using a human-centered design approach to reduce inefficiencies, improve transparency, and address fairness concerns. Applied structured methods such as Frame Your Design Challenge, brainstorming, and Theory of Change to develop concepts including a data-informed scheduler, shift-swapping mechanism, and fairness dashboard.
 
 ---
 
