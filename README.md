@@ -31,22 +31,22 @@
 - 🔹 **[SM Paints – Process Improvement Simulation](https://github.com/Milonee13/SM-Paints---Simulation-Project)**  
   Built a discrete-event simulation model in Arena to analyze production bottlenecks and test process improvements. Recommended adding a dedicated quart filling line, which improved throughput and supported the company’s 98% on-time delivery goal.
 
-- 🔹 **Raw Material Optimization**  
+- 🔹 **[Raw Material Optimization](https://github.com/Milonee13/Raw-Material-Optimization)**  
   Designed a linear programming model in Python to minimize raw material costs under supply, demand, and capacity constraints. Demonstrated how optimization can reduce procurement spend and improve sourcing efficiency.  
 
-- 🔹 **Vendor Performance Analytics**  
+- 🔹 **[Vendor Performance Analytics](http://github.com/Milonee13/Vendor-Performance-Analytics)**  
   Built an analytics framework to evaluate supplier performance using delivery times, cost variability, and reliability metrics. Identified vendor concentration risks and highlighted diversification strategies for improved supply resilience.  
 
-- 🔹 **Sales Dashboard (Power BI)**  
+- 🔹 **[Sales Dashboard (Power BI)](https://github.com/Milonee13/Sales-PowerBI-Dashboard)**  
   Developed an interactive Power BI dashboard to visualize sales by region, product line, and time period. Delivered insights on revenue drivers, margin pressures, and target gaps, enabling faster decision-making.  
 
-- 🔹 **Hospitalization Cost Prediction**  
+- 🔹 **[Hospitalization Cost Prediction](https://github.com/Milonee13/predicting-hospitalization-costs)**  
   Applied regression and predictive modeling techniques to estimate hospitalization costs based on patient attributes (BMI, chronic conditions, etc.). Achieved strong accuracy and demonstrated applications in healthcare cost transparency and resource allocation.  
 
-- 🔹 **CO₂ Emissions Reporting**  
+- 🔹 **[CO₂ Emissions Reporting](https://github.com/Milonee13/CO2-emissions-reporting)**  
   Created a Python-based pipeline for emissions data cleaning, reporting, and visualization. Highlighted patterns and anomalies in CO₂ emissions to support sustainability analysis and compliance reporting.  
 
-- 🔹 **OR Scheduling System Redesign**  
+- 🔹 **[OR Scheduling System Redesign](https://github.com/Milonee13/OR-Scheduling-System-Redesign-using-Human-Centered-Approach)**  
   Redesigned a hospital Operating Room scheduling process using a human-centered design approach to reduce inefficiencies, improve transparency, and address fairness concerns. Applied structured methods such as Frame Your Design Challenge, brainstorming, and Theory of Change to develop concepts including a data-informed scheduler, shift-swapping mechanism, and fairness dashboard.
 
 ---
