@@ -11,7 +11,7 @@
 - **Operations & IE**: Lean (VSM, 5S, Kaizen), Root Cause Analysis, SOP Development, EOQ, OTIF, Cycle Time  
 - **Optimization & Modeling**: Linear Programming (PuLP), Simulation (Arena), Forecasting / Time Series  
 - **Systems & Tools**: SAP S/4HANA, Oracle, SharePoint, Visio, Lucidchart  
-- **Certifications**: Lean Six Sigma Green Belt, CSCMP Supply Chain Foundations, SAP ERP Essential Training  
+- **Training**: Lean Six Sigma Green Belt, CSCMP Supply Chain Foundations, SAP ERP Essential Training  
 
 ---
 
