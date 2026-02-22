@@ -50,6 +50,8 @@
 - 🔹 **[OR Scheduling System Redesign](https://github.com/Milonee13/OR-Scheduling-System-Redesign-using-Human-Centered-Approach)**  
   Redesigned a hospital Operating Room scheduling process using structured problem framing and human-centered design methods. Proposed a data-informed scheduler, fairness dashboard, and shift-swapping mechanism to reduce inefficiencies and improve transparency.
 
+- 🔹 **[Warehouse-Process-Flows-for-Improvement](https://github.com/Milonee13/Warehouse-Process-Flows-for-Improvement)**
+  This workflow maps SVCC’s end-to-end food & beverage operations—from demand forecasting and vendor ordering to inventory, kitchen production, and service. It highlights key handoffs, decision points, and feedback loops to support capacity planning, inventory optimization, and continuous improvement.
 ---
 
 ### 📊 Analytics & Business Intelligence  
