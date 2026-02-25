@@ -11,19 +11,8 @@
 - **Operations & IE**: Lean (VSM, 5S, Kaizen), Root Cause Analysis, SOP Development, EOQ, OTIF, Cycle Time  
 - **Optimization & Modeling**: Linear Programming (PuLP), Simulation (Arena), Forecasting / Time Series  
 - **Systems & Tools**: SAP S/4HANA, Oracle, SharePoint, Visio, Lucidchart  
-- **Training**: Lean Six Sigma Green Belt, CSCMP Supply Chain Foundations, SAP ERP Essential Training  
-
----
-
-## 💼 Experience  
-- **Process Improvement Consultant — Enterprise Systems Center, SVCC (2025 – Present)**  
-  Value Stream Mapping, KPI dashboards, SOPs, Lean interventions (5S, JIT) → reduced turnaround, improved fulfillment accuracy (+25%), cost savings (6%), productivity gains (8%).  
-
-- **Analyst — Dasra (Impact Foundation), Mumbai (2023 – 2024)**  
-  OTIF dashboards, stockout prevention, automated Power Automate reporting, and procurement cycle management across 15 contracts for a $2M+ nationwide healthcare program.  
-
-- **Supply Chain Intern — Nayan Trading Co., Mumbai (2023)**  
-  SAP + SQL/Python data integration for logistics dashboards, demand forecasting for 30–50 SKUs, and supplier coordination improving on-time delivery.  
+- **Training**: Lean Six Sigma Green Belt, CSCMP Supply Chain Foundations, SAP ERP Essential Training
+- **Quality & Continuous Improvement**: ISO 9001 QMS, Process FMEA, Pareto analysis, Cause-and-Effect (Fishbone) diagrams, Flowcharts, Check Sheets, Statistical Process Control (SPC) charts, A3 problem solving,                                           5S, workflow and process analysis
 
 ---
 
